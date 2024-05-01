@@ -1,0 +1,94 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Introduction to Python Programming",
+      "slug": "introduction-to-python-programming",
+      "description": "Learn the fundamentals of Python programming language.",
+      "price": 99,
+      "instructor": "Alice Smith",
+      "isFeatured": true,
+      "link": "https://via.placeholder.com/1"
+    },
+    {
+      "id": 2,
+      "title": "JavaScript Basics",
+      "slug": "javascript-basics",
+      "description": "A beginner-friendly course to learn JavaScript.",
+      "price": 79,
+      "instructor": "Bob Johnson",
+      "isFeatured": false,
+      "link": "https://via.placeholder.com/1"
+    },
+    {
+      "id": 3,
+      "title": "HTML5 and CSS3 Essentials",
+      "slug": "html5-and-css3-essentials",
+      "description": "Master the essentials of HTML5 and CSS3 for web development.",
+      "price": 89,
+      "instructor": "Charlie Brown",
+      "isFeatured": true,
+      "link": "https://via.placeholder.com/1"
+    },
+    {
+      "id": 4,
+      "title": "React.js Fundamentals",
+      "slug": "reactjs-fundamentals",
+      "description": "Get started with React.js framework for building modern web applications.",
+      "price": 129,
+      "instructor": "Daisy Johnson",
+      "isFeatured": false,
+      "link": "https://via.placeholder.com/1"
+    },
+    {
+      "id": 5,
+      "title": "Node.js and Express.js Crash Course",
+      "slug": "nodejs-and-expressjs-crash-course",
+      "description": "A quick crash course on building web servers with Node.js and Express.js.",
+      "price": 109,
+      "instructor": "Ethan Smith",
+      "isFeatured": true,
+      "link": "https://via.placeholder.com/1"
+    },
+    {
+      "id": 6,
+      "title": "Python Django Framework",
+      "slug": "python-django-framework",
+      "description": "Learn Django framework for building robust web applications with Python.",
+      "price": 149,
+      "instructor": "Fiona Brown",
+      "isFeatured": false,
+      "link": "https://via.placeholder.com/1"
+    },
+    {
+      "id": 7,
+      "title": "Java Programming for Beginners",
+      "slug": "java-programming-for-beginners",
+      "description": "A comprehensive course to learn Java programming from scratch.",
+      "price": 119,
+      "instructor": "George Johnson",
+      "isFeatured": true,
+      "link": "https://via.placeholder.com/1"
+    },
+    {
+      "id": 8,
+      "title": "C++ Programming Fundamentals",
+      "slug": "cpp-programming-fundamentals",
+      "description": "Master the basics of C++ programming language.",
+      "price": 99,
+      "instructor": "Hannah Smith",
+      "isFeatured": false,
+      "link": "https://via.placeholder.com/1"
+    },
+    {
+      "id": 9,
+      "title": "Data Structures and Algorithms in Python",
+      "slug": "data-structures-and-algorithms-in-python",
+      "description": "Learn essential data structures and algorithms concepts using Python.",
+      "price": 129,
+      "instructor": "Ian Brown",
+      "isFeatured": true,
+      "link": "https://via.placeholder.com/1"
+    }
+  ]
+}

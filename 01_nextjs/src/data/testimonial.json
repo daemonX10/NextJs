@@ -1,0 +1,64 @@
+{
+    "courses": [
+        {
+            "id": 1,
+            "title": "JavaScript Fundamentals",
+            "name": "John Doe",
+            "quote": "JavaScript is the language of the web."
+        },
+        {
+            "id": 2,
+            "title": "Python Programming for Beginners",
+            "name": "Jane Smith",
+            "quote": "Python is both powerful and beginner-friendly."
+        },
+        {
+            "id": 3,
+            "title": "HTML5 and CSS3 Essentials",
+            "name": "Alice Johnson",
+            "quote": "HTML and CSS are the building blocks of the web."
+        },
+        {
+            "id": 4,
+            "title": "React.js Fundamentals",
+            "name": "Bob Brown",
+            "quote": "React.js makes building UI components easy and efficient."
+        },
+        {
+            "id": 5,
+            "title": "Node.js and Express.js Crash Course",
+            "name": "Emily Davis",
+            "quote": "Node.js and Express.js are a powerful combination for backend development."
+        },
+        {
+            "id": 6,
+            "title": "Java Programming Basics",
+            "name": "Michael Lee",
+            "quote": "Java is versatile and widely used in enterprise applications."
+        },
+        {
+            "id": 7,
+            "title": "C++ Programming Fundamentals",
+            "name": "Sophia Garcia",
+            "quote": "C++ is known for its performance and versatility."
+        },
+        {
+            "id": 8,
+            "title": "Data Structures and Algorithms in Python",
+            "name": "Daniel Martinez",
+            "quote": "Understanding data structures and algorithms is key to becoming a better programmer."
+        },
+        {
+            "id": 9,
+            "title": "Machine Learning with Scikit-Learn",
+            "name": "Emma Wilson",
+            "quote": "Machine learning allows computers to learn from data and make predictions."
+        },
+        {
+            "id": 10,
+            "title": "Artificial Intelligence Fundamentals",
+            "name": "Ryan Thompson",
+            "quote": "Artificial intelligence is transforming various industries with its applications."
+        }
+    ]
+}
